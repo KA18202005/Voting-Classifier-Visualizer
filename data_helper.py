@@ -1,11 +1,11 @@
 import pandas as pd
 
-concentric = pd.read_csv('toy_datasets/concertriccir2.csv')
-linear = pd.read_csv('toy_datasets/linearsep.csv')
-outlier = pd.read_csv('toy_datasets/outlier.csv')
-spiral = pd.read_csv('toy_datasets/twoSpirals.csv')
-ushape = pd.read_csv('toy_datasets/ushape.csv')
-xor = pd.read_csv('toy_datasets/xor.csv')
+concentric = pd.read_csv('concertriccir2.csv')
+linear = pd.read_csv('linearsep.csv')
+outlier = pd.read_csv('outlier.csv')
+spiral = pd.read_csv('twoSpirals.csv')
+ushape = pd.read_csv('ushape.csv')
+xor = pd.read_csv('xor.csv')
 
 def load_dataset():
 
