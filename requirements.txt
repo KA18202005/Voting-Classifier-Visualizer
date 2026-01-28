@@ -1,6 +1,5 @@
-numpy
-pandas
-pyarrow
-scikit-learn
-sklearn
 streamlit
+numpy
+matplotlib
+scikit-learn
+pandas
